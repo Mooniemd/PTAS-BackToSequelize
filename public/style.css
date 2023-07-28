@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+body{
+    background-color: rgb(224, 95, 95);
+    color: white;
+    font-family: 'Silkscreen', cursive;
+}
+
+.cartaz{
+    text-align: center;
+    display: block;
+    margin-top: 300px;
+}
+
+.textoi{
+    width: 400px; 
+    margin: auto; 
+    padding: 20px;
+    border-style: solid;
+    border-color: #f5cf56;
+    border-radius: 20px;
+}
+
